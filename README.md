@@ -6,10 +6,10 @@ Transformo datos educacionales en insights accionables para mejorar la toma de d
 
 ### 🔍 Mi expertise
 
-- **20+ años** en gestión educativa (Director Académico, Profesor Universitario)
-- **Magíster** en Ciencias de Datos para la Innovación (UDEC)
-- **Magíster** en Gestion y Liderazgo Educacional (PUC)
-- Combino conocimiento profundo del sistema educativo con Python, R y Machine Learning
+- **20+ años** en gestión educativa (Docente,  Profesor Universitario y Director Académico).
+- **Magíster** en Ciencias de Datos para la Innovación (UDEC).
+- **Magíster** en Gestion y Liderazgo Educacional (PUC).
+- Combino conocimiento profundo del sistema educativo con Python, R y Machine Learning.
 
 ### 🚀 Proyectos destacados
 
