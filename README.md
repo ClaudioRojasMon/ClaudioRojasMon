@@ -1,5 +1,5 @@
 
-![Analítica](logo.png)
+![Analítica](Logo.png)
 
 # 👋 Hola, soy Claudio Rojas
 
