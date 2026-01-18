@@ -42,4 +42,4 @@ Transformo datos educacionales en insights accionables para mejorar la toma de d
 
 ---
 
-💡 *Actualmente explorando oportunidades en consultoría educativa, EdTech y People Analytics*
+💡 *Actualmente explorando oportunidades en Consultoría Educativa, EdTech y Learning Analytics*
