@@ -1,3 +1,6 @@
+
+![Analítica](logo.png)
+
 # 👋 Hola, soy Claudio Rojas
 
 ## 🎓 Educational Data Scientist | Especialista en Analítica Educativa
