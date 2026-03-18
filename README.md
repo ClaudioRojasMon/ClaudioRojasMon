@@ -3,9 +3,16 @@
 
 # 👋 Hola, soy Claudio Rojas
 
-## 🎓 Educational Data Scientist | Especialista en Analítica Educativa
+## 🎓 Docente | Directivo
+Transformo datos educacionales en insights accionables para mejorar 
+la toma de decisiones en mi entorno y discutir temas del sistema 
+escolar chileno.
 
-Transformo datos educacionales en insights accionables para mejorar la toma de decisiones en el sistema escolar chileno.
+Soy un **vibe coder** — uso herramientas de IA para construir 
+soluciones reales sin ser programador experto. Tengo conocimientos 
+básicos de Python, R, Jupyter Book y Markdown, y los combino con 
+20+ años de experiencia en educación para crear proyectos con 
+impacto real en el aula.
 
 ### 🔍 Mi expertise
 
