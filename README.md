@@ -5,9 +5,13 @@
 
 ## Director Académico | Magíster en Ciencia de Datos
 
-Llevo 20 años en educación, 10 como Director Académico. Estudié ciencia de datos para resolver problemas reales que veía en mi trabajo: decisiones sin datos, reportes que tomaban horas, falta de herramientas adaptadas al contexto chileno.
+Empecé como profesor de Historia. Hoy, 20 años después (10 como Director Académico), uso datos e IA como herramientas para resolver problemas reales
+que veía en mi trabajo: decisiones sin información sistemática, reportes que tomaban horas, falta de herramientas adaptadas al contexto chileno. Y en
+paralelo, las mismas herramientas las aplico a mi otra pasión: la investigación de historia local.
 
 **Mi enfoque:** Identifico problemas educativos reales, diseño soluciones prácticas, y las implemento usando Python, R e IA. No soy programador de profesión, pero sí alguien que sabe usar estas herramientas para crear impacto medible en instituciones educativas.
+
+🧭 Todo esto vive organizado en **[Bitácoralab](https://claudiorojasmon.github.io)** — mi sitio, con tres líneas de trabajo: uso de datos & IA, asesoría educativa, e historia local.
 
 ---
 
@@ -61,6 +65,7 @@ Cada proyecto resuelve un problema educativo real con resultados medibles:
 - 🎓 Transformación digital en instituciones educativas
 - 📚 Creación de recursos educativos interactivos
 - 🔍 Análisis de datos para políticas educativas
+- 🏛️ Investigación y divulgación de historia local (Puerto Montt y la región)
 
 ---
 
@@ -72,6 +77,7 @@ Estoy explorando oportunidades donde mi combinación única de experiencia educa
 - **EdTech** (Product Management, Implementation, Learning Analytics)
 - **Innovación educativa** con enfoque en datos e IA
 - **Liderazgo** en proyectos que combinen educación y tecnología
+- **Colaboraciones** con medios locales o instituciones patrimoniales interesadas en historia regional
 
 ---
 
@@ -91,7 +97,8 @@ Estoy explorando oportunidades donde mi combinación única de experiencia educa
 ## 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-rojas-monsalves)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:crojasmon@bitacoralab.cl)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contacto@bitacoralab.cl)
+[![Bitácoralab](https://img.shields.io/badge/-Bit%C3%A1coralab-111111?style=flat&logo=googlechrome&logoColor=white)](https://claudiorojasmon.github.io)
 
 ---
 
