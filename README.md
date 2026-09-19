@@ -3,13 +3,13 @@
 
 # 👋 Hola, soy Claudio Rojas
 
-## Director Académico | Magíster en Ciencia de Datos
+## Datos e IA aplicados a Educación e Historia
 
 Empecé como profesor de Historia. Hoy, 20 años después (10 como Director Académico), uso datos e IA como herramientas para resolver problemas reales
 que veía en mi trabajo: decisiones sin información sistemática, reportes que tomaban horas, falta de herramientas adaptadas al contexto chileno. Y en
 paralelo, las mismas herramientas las aplico a mi otra pasión: la investigación de historia local.
 
-**Mi enfoque:** Identifico problemas educativos reales, diseño soluciones prácticas, y las implemento usando Python, R e IA. No soy programador de profesión, pero sí alguien que sabe usar estas herramientas para crear impacto medible en instituciones educativas.
+**Mi enfoque:** Identifico problemas reales —educativos e históricos—, diseño soluciones prácticas, y las implemento usando Python, R e IA. No soy programador de profesión, pero sí alguien que sabe usar estas herramientas para crear impacto medible, ya sea en instituciones educativas o en investigación histórica.
 
 🧭 Todo esto vive organizado en **[Bitácoralab](https://claudiorojasmon.github.io)** — mi sitio, con tres líneas de trabajo: uso de datos & IA, asesoría educativa, e historia local.
 
@@ -21,6 +21,7 @@ paralelo, las mismas herramientas las aplico a mi otra pasión: la investigació
 - **Marco institucional de IA generativa** adoptado oficialmente por 100+ docentes
 - **Automatización de planificación docente** que redujo 67% el tiempo en tareas repetitivas
 - **2 libros interactivos de Python** publicados en [galería internacional de Executable Books](https://executablebooks.org/en/latest/gallery/)
+- **5 skills de Claude para investigación histórica** publicadas como código abierto, reutilizables por cualquier historiador
 
 ---
 
@@ -35,6 +36,7 @@ Cada proyecto resuelve un problema educativo real con resultados medibles:
 | [📈 Trayectorias_Academicas](https://github.com/ClaudioRojasMon/Trayectorias_Academicas) | Sin seguimiento longitudinal de estudiantes | Análisis de trayectorias 2017-2020 con R |
 | [📗 Apoyo - Libro Interactivo](https://claudiorojasmon.github.io/Apoyo/intro.html) | Falta material Python para educación media | Jupyter Book con Python básico, datos y NLP |
 | [📘 Programando la Historia](https://claudiorojasmon.github.io/apuntes_2025/intro.html) | Enseñar IA de forma crítica a adolescentes | Libro que usa historia para enseñar Python e IA |
+| 🧰 [claude-skills-historia](https://github.com/ClaudioRojasMon/claude-skills-historia) | Sin herramientas de IA reutilizables para investigación histórica | 5 skills de Claude para análisis de fuentes, paleografía alemana, citas y más |
 
 ---
 
