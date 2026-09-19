@@ -99,7 +99,7 @@ Estoy explorando oportunidades donde mi combinación única de experiencia educa
 ## 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-rojas-monsalves)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contacto@bitacoralab.cl)
+[![ProtonMail](https://img.shields.io/badge/-ProtonMail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:crojasmon@proton.me)
 [![Bitácoralab](https://img.shields.io/badge/-Bit%C3%A1coralab-111111?style=flat&logo=googlechrome&logoColor=white)](https://claudiorojasmon.github.io)
 
 ---
