@@ -104,4 +104,4 @@ Estoy explorando oportunidades donde mi combinación única de experiencia educa
 
 ---
 
-💙 Desarrollado con pasión por la educación desde el sur de Chile 🇨🇱
+💙 Desarrollado con pasión por la educación y la historia en el sur de Chile 🇨🇱
